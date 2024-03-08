@@ -1,0 +1,11 @@
+.venv
+.env
+
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpeta específica de PyCharm
+.idea/
